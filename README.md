@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning LLM & AI.
+- 🌱 I’m currently learning Data Science & AI.
